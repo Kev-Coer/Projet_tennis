@@ -6,7 +6,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import be.Laurent.java.Arbitre;
+import be.laurent.java.Arbitre;
 
 public class ArbitreDao extends DAO<Arbitre> {
 	
