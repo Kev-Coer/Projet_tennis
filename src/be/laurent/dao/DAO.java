@@ -18,7 +18,5 @@ public abstract class DAO<T> {
 	
 	public abstract T find(int obj);
 	
-	public abstract T findstring(String obj);
-	public abstract T findEquipe(int obj,int obj1);
-	
+	public abstract T findstring(String obj);	
 }
