@@ -6,10 +6,13 @@ import be.laurent.java.Tournois;
 public class Zone_de_test_main {
 
 	public static void main(String[] args) {
-		System.out.println("Macth contre");
+		/* pour remplire bd*/
+		/*System.out.println("Macth contre");
 		Tournois tour= new Tournois("Match");
 		Ordonnancement Ordon =new Ordonnancement();
-		Ordon.Start(tour);
+		Ordon.Start(tour);*/
+		
+		/*divers*/
 		/*Match test= new Match();
 
 		for (Match customer : test.List()) {
